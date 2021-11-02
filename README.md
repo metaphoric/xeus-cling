@@ -56,7 +56,7 @@ mamba install jupyterlab -c conda-forge
 To try out xeus-cling interactively in your web browser, just click on the binder
 link:
 
-[![Binder](binder-logo.svg)](https://mybinder.org/v2/gh/jupyter-xeus/xeus-cling/stable?filepath=notebooks/xcpp.ipynb)
+[![Binder](binder-logo.svg)](https://mybinder.org/v2/gh/metaphoric/xeus-cling/stable?filepath=notebooks/xcpp.ipynb)
 
 ## Documentation
 
